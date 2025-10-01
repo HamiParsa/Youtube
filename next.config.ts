@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  trailingSlash: true,    // ensures pages like /about/ exist
+  reactStrictMode: true,    // Enable React strict mode
+  trailingSlash: true,      // Ensure URLs include a trailing slash (e.g., /about/)
   images: {
-    unoptimized: true,    // disable Next.js Image Optimization
+    unoptimized: true,      // Disable Next.js image optimization
   },
 };
 
