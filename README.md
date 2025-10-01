@@ -80,6 +80,7 @@ The project showcases:
   <img src="/pic1.png" width="700px" />
   <br/> <br/>
   <hr/>
+  <br/> <br/>
   <img src="/pic2.png" width="700px" />
 </div>
 
