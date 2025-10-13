@@ -1,89 +1,82 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>🎬 YouTubeProDark</h1>
+  <p>Watch, comment, like, and explore videos with a modern dark UI 🔴</p>
   <a href="https://68dd0ea5d5bc2569c7ec0a2c--lighthearted-tarsier-75bef8.netlify.app/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
 
-# YouTubeProDark 🎬🔴
+---
 
-YouTubeProDark is a modern YouTube-like web application built with React and Next.js. Users can watch videos, view related content, add comments, like/dislike videos, and interact with a responsive and dynamic UI. The project demonstrates advanced front-end skills using React, Next.js, TypeScript, Tailwind CSS, and Lucide Icons.
+## 📝 About the Project
+
+**YouTubeProDark** is a YouTube-like web application with a dark theme. Users can:
+
+- Watch embedded videos with live/short indicators  
+- Like, dislike, share, and save videos  
+- Add and view comments with localStorage persistence  
+- Explore related videos in a dynamic sidebar  
+
+Built with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Lucide Icons**, this project demonstrates modern front-end development techniques.
 
 ---
 
-## Features:
+## ✨ Features
 
 <ul>
-  <li>Watch embedded YouTube videos with live and short indicators</li>
-  <li>Like, dislike, share, and save videos</li>
-  <li>Add and view comments with localStorage persistence</li>
-  <li>Related videos sidebar with dynamic linking</li>
-  <li>Responsive design for desktop and mobile</li>
-  <li>Reusable React components with TypeScript for type safety</li>
-  <li>Custom YouTube-style red scrollbar</li>
-  <li>Interactive and modern UI with hover effects and transitions</li>
+  <li>▶️ Watch embedded YouTube videos with live & short indicators</li>
+  <li>👍 Like, 👎 Dislike, 🔗 Share, 💾 Save videos</li>
+  <li>💬 Add & view comments with localStorage persistence</li>
+  <li>🖼️ Related videos sidebar with dynamic linking</li>
+  <li>💻 Fully responsive UI for desktop and mobile</li>
+  <li>♻️ Reusable React components with TypeScript</li>
+  <li>🟥 Custom YouTube-style red scrollbar</li>
+  <li>🎨 Interactive hover effects and smooth transitions</li>
 </ul>
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and server-side rendering
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Lucide Icons for scalable vector icons
-    <img width='20px' src='https://skillicons.dev/icons?i=lucide'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Interactive UI components |
+| 🧭 **Next.js** | Routing & server-side rendering |
+| 🟦 **TypeScript** | Type safety & maintainable code |
+| 🎨 **Tailwind CSS** | Responsive styling & modern design |
+| 🪄 **Lucide Icons** | Scalable vector icons |
 
 ---
 
-## Description:
+## 💡 Description
 
-YouTubeProDark is a full-featured front-end project replicating a YouTube-like experience with a dark theme. Users can:
+YouTubeProDark replicates the YouTube experience with a sleek dark theme. Users can:
 
-- Watch and navigate through embedded videos
-- View related videos dynamically
-- Like, dislike, share, and save videos
-- Add comments which persist using localStorage
-- Interact with a responsive sidebar and custom navigation
-- Experience a YouTube-style red scrollbar for a modern touch
+- Navigate and watch embedded videos  
+- Interact with related videos dynamically  
+- Like, dislike, share, and save content  
+- Add comments that persist using localStorage  
+- Enjoy a responsive sidebar and navigation with modern hover effects  
 
-The project showcases:
+The project demonstrates:
 
-- Dynamic video listings with reusable React components
-- Persistent comment system using localStorage
-- Smooth UI interactions with Tailwind CSS
-- Interactive hover effects and responsive design
-- Dark mode styling for a modern YouTube look
+- Dynamic video listings with reusable components  
+- Persistent comment system  
+- Smooth UI interactions and transitions  
+- Responsive design with dark mode styling  
 
 ---
 
-<h1 align="center">Project Picture 🖼️</h1>
+## 🖼️ Project Preview
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
-  <br/> <br/>
-  <hr/>
-  <br/> <br/>
+  <br/><br/>
   <img src="/pic2.png" width="700px" />
 </div>
 
+---
 
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,lucide" />
+</div>
