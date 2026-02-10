@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎬 YouTubeProDark</h1>
   <p>Watch, comment, like, and explore videos with a modern dark UI 🔴</p>
-  <a href="https://68dd0ea5d5bc2569c7ec0a2c--lighthearted-tarsier-75bef8.netlify.app/">
+  <a href="https://lighthearted-tarsier-75bef8.netlify.app/">
     <img src="https://img.shields.io/badge/View_Live_Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
