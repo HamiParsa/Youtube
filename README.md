@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>🎬 YouTubeProDark</h1>
   <p>Watch, comment, like, and explore videos with a modern dark UI 🔴</p>
